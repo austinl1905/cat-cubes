@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+}
+
+#mainC {
+  width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  text-align: center;
+  margin: 50px auto 50px auto;
+  font-family: "Arial", "sans-serif";
+}
+
+/*# sourceMappingURL=index.css.map */
